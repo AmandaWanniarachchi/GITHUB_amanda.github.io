@@ -18,7 +18,7 @@ show_social: true             # show site description and social links inthe foo
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About me"}
   - {title: "Educational Qualifications"}
-  - {file: "HS21932502_Wanniarachchi W.A.D..pdf, title: "CV"}
+  - {file: "HS21932502_Wanniarachchi W.A.D..pdf, title: "Resume"}
   - {title: "Hobbies"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
